@@ -1,5 +1,7 @@
 # SeamlessFocus Chrome Extension
 
+https://mrgjeka.github.io/SeamlessFocus-Website/
+
 SeamlessFocus is a powerful Google Chrome extension that seamlessly connects with the Spotify API,
 allowing you to access and control your Spotify account right from your browser. It also is able to 
 automatically stop or start your spotify each time you pause or start another form of media on your 
