@@ -25,12 +25,9 @@ SeamlessFocus keeps your Spotify music within easy reach, so you can stay focuse
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-- **Email:** [support@seamlessfocus.com](mailto:support@seamlessfocus.com)
+- **Email:** [support@seamlessfocus.com](mailto:support@seemlessfocus.com)
 - **GitHub:** [MrGjeka](https://github.com/MrGjeka)
 - **LinkedIn:** [Andrea Gjeka](https://www.linkedin.com/in/andreagjeka/)
